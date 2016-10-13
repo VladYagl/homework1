@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="math_sign">32sp</dimen>
+    <dimen name="digit">22sp</dimen>
+    <dimen name="result">29sp</dimen>
+    <dimen name="operation">39sp</dimen>
+</resources>
